@@ -18,10 +18,8 @@
 ---
 
 #### Something about me
-- 🌱 I’m currently learning Data Science and Machine Learning with python
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Flutter and Dart!
-- 👯 I’m looking to collaborate on a Flutter project.
+- 🌱 I’m currently learning c++ in depth
+- 🤔 I’m looking for help on how to structure a project
 - ⚡ Fun fact: I❤️🏀
 
 #### 📫 How to reach me: 
